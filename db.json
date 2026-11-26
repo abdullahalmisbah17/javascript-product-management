@@ -1,0 +1,35 @@
+{
+  "product": [
+    {
+      "name": "Kenyon Kelly",
+      "image": "Seekh_Kebab.jpg",
+      "price": "654",
+      "ratting": "5",
+      "id": "fZr8p7-cPFU"
+    },
+    {
+      "name": "Cooper Welch",
+      "image": "Pasta.jpg",
+      "price": "25",
+      "ratting": "1",
+      "id": "N7RjV94DzXc"
+    },
+  
+    {
+      "name": "Selma Stevens",
+      "image": "Pasta.jpg",
+      "price": "727",
+      "ratting": "4",
+      "id": "XAa3AOQOPyU"
+    },
+    {
+      "name": "Zephania Graves",
+      "image": "Fry_Nurger.jpg",
+      "price": "77",
+      "ratting": "4",
+      "id": "qaPQm8JiDv4"
+    }
+    
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
